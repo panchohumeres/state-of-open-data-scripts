@@ -7,15 +7,10 @@ Descriptive stats for all the resources (datasets) published in datos.gob.cl, th
 A Dashboard Demo built with Kibana, for visualizing these stats can be accesed at: http://www.estado.datos.gob.cl.s3-website-sa-east-1.amazonaws.com/. You can access the Jupyter Notebook version [here](https://anaconda.org/fhumeres/ckan_stats/notebook)
 
 
-
-# 
 * **"Junar_dt_stats.py": Example Script for compiling stats from an Open-Data Portal based on Junar, and export them to Excel (Python 2.7).**
-Descriptive stats for all the datasets ("Conjuntos de Datos") published in [beta.datos.gob.cl](https://beta.datos.gob.cl), the future official Open Data Portal of the Chilean government, based on the SaaS platform [Junar](http://www.junar.com/). Resources metadata has been extracted from Junar's API.
-** NOTE: FIGURES MAY DIFFER SLIGHTLY FROM THE ONES REPORTED IN BETA.DATOS.GOB.CL. FOR OFFICIAL FIGURES, PLEASE REFER TO [beta.datos.gob.cl](https://beta.datos.gob.cl). **
-A Dashboard Demo built with Kibana, for visualizing these stats can be accesed at: https://d3bhn81c8dm26x.cloudfront.net//.
+Descriptive stats for all the datasets ("Conjuntos de Datos") published in [beta.datos.gob.cl](https://beta.datos.gob.cl), the future official Open Data Portal of the Chilean government, based on the SaaS platform [Junar](http://www.junar.com/). Resources metadata has been extracted from Junar's API. 
+** NOTE: FIGURES MAY DIFFER SLIGHTLY FROM THE ONES REPORTED IN BETA.DATOS.GOB.CL. FOR OFFICIAL FIGURES, PLEASE REFER TO [beta.datos.gob.cl](https://beta.datos.gob.cl). ** A Dashboard Demo built with Kibana, for visualizing these stats can be accesed at: http://www.state.junar.s3-website-sa-east-1.amazonaws.com/.
 Demo made by [Francisco Humeres M.](https://www.linkedin.com/in/fhumeres/). You can access the Jupyter Notebook version [here](https://anaconda.org/fhumeres/junar_dt_stats/notebook)
-
-
 
 
 Demo made by [Francisco Humeres M.](https://www.linkedin.com/in/fhumeres/). More of my work can be seen in my [Portfolio](https://fjhumeres.myportfolio.com/). You can contact me at fhumeres[at]alum[dot]mit[dot]edu.
