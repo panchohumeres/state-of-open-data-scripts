@@ -1,5 +1,5 @@
 # state-of-open-data
-Set of scripts for compiling and visualizing publishing stats from Open Data portals, according to the technologies on which they are based such as Junar and CKAN.
+Set of scripts and BI tools for compiling and visualizing publishing stats from Open Data portals, according to the technologies on which they are based such as Junar and CKAN.
 
 # BI Projects
 { Currently offline due to changes in source data and APIs (government) }
@@ -10,11 +10,11 @@ Tech Stach available at [NACK](https://github.com/panchohumeres/NAKC)
 
 * **State of Open Data [2019]**
 Dashboard for visualizing real-time stats of the Chilean Government Open Data portal (datos.gob.cl), based on Kibana.
-Tech Stach available at href="https://github.com/panchohumeres/state-of-open-data-scripts
+Tech Stach available at [State of Open Data BI Stack](https://github.com/panchohumeres/state-of-open-data)
 
 # Notebooks
 [https://anaconda.org/fhumeres/ckan_stats/notebook]
-Jupyter Notebook for getting datasets metadata from Chilean Open Data Portal) { might not work due to changes in source API }
+Jupyter Notebook for getting datasets metadata from Chilean Government Open Data Portal) { might not work due to changes in source API }
 
 # Files:
 * **"CKAN_stats.py": Example Script for compiling stats from an Open-Data Portal based on CKAN, and export them to Excel (Python 2.7).**
