@@ -13,7 +13,8 @@ Dashboard for visualizing real-time stats of the Chilean Government Open Data po
 Tech Stach available at href="https://github.com/panchohumeres/state-of-open-data-scripts
 
 # Notebooks
-[https://anaconda.org/fhumeres/ckan_stats/notebook](Jupyter Notebook for getting datasets metadata from Chilean Open Data Portal) { might not work due to changes in source API }
+[https://anaconda.org/fhumeres/ckan_stats/notebook]
+Jupyter Notebook for getting datasets metadata from Chilean Open Data Portal) { might not work due to changes in source API }
 
 # Files:
 * **"CKAN_stats.py": Example Script for compiling stats from an Open-Data Portal based on CKAN, and export them to Excel (Python 2.7).**
