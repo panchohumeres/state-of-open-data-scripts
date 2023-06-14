@@ -6,7 +6,7 @@ Set of scripts for compiling and visualizing publishing stats from Open Data por
 
 * **NACK Search [2020]**
 Replica search engine for the Chilean Government open data portal, based on open source-software CKAN. Search engine made with Elasticsearch, built with public and open data sources.
-Tech Stach available at [https://github.com/panchohumeres/state-of-open-data-scripts](https://github.com/panchohumeres/NAKC)
+Tech Stach available at [https://github.com/panchohumeres/state-of-open-data-scripts](https://github.com/panchohumeres/NAKC](https://github.com/panchohumeres/NAKC)
 
 * **State of Open Data [2019]**
 Dashboard for visualizing real-time stats of the Chilean Government Open Data portal (datos.gob.cl), based on Kibana.
