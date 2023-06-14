@@ -1,6 +1,18 @@
 # state-of-open-data
 Set of scripts for compiling and visualizing publishing stats from Open Data portals, according to the technologies on which they are based such as Junar and CKAN.
 
+# BI Projects
+{ Currently offline due to changes in source data and APIs (government) }
+
+* **NACK Search [2020]**
+Replica search engine for the Chilean Government open data portal, based on open source-software CKAN. Search engine made with Elasticsearch, built with public and open data sources.
+Tech Stach available at [https://github.com/panchohumeres/state-of-open-data-scripts](https://github.com/panchohumeres/NAKC)
+
+* **State of Open Data [2019]**
+Dashboard for visualizing real-time stats of the Chilean Government Open Data portal (datos.gob.cl), based on Kibana.
+Tech Stach available at href="https://github.com/panchohumeres/state-of-open-data-scripts
+
+
 # Files:
 * **"CKAN_stats.py": Example Script for compiling stats from an Open-Data Portal based on CKAN, and export them to Excel (Python 2.7).**
 Descriptive stats for all the resources (datasets) published in datos.gob.cl, the Chilean Government official Open Data Portal, based on open-source software [CKAN](https://en.wikipedia.org/wiki/CKAN). Datasets metadata has been extracted using [CKAN's official API, v3](https://docs.ckan.org/en/2.8/api/). 
